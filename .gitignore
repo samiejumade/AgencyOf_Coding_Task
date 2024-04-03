@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore build folder
+/dist
+
+# Ignore logs
+*.log
+
+# Ignore all text files
+*.txt
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore all files in the node_modules folder
+node_modules/
